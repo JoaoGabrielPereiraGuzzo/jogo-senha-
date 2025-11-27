@@ -58,14 +58,6 @@ void jogoDaSenha(){
 
 
 
-
-
-
-
-
-
-
-
 int main(){
 
     int continuar;
