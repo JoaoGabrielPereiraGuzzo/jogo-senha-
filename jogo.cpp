@@ -40,8 +40,6 @@ numeroJogado trataNumeroJogador(int numeroJogador){
 }
 
 
-
-
 void jogoDaSenha(){
    
     //chama as variaveis do struct
