@@ -125,7 +125,7 @@ void jogoDaSenha(){
                     numeroJogado nj = trataNumeroJogador(numeroJogador);
 
                     if(tentativas < 10 ){
-                        if(numeroJogador < 1111 and numeroJogador > 6666){
+                        if(numeroJogador >= 1111 and numeroJogador <= 6666){
                             if(numeroJogador == senhaRandom.numeroFinal){
                                 Vitoria();
                                 break;
